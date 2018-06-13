@@ -1,0 +1,4 @@
+[
+  "birdie/tests/test_models.py::TestPost::()::test_model",
+  "birdie/tests/test_models.py::TestPost::()::test_get_excerpt"
+]
